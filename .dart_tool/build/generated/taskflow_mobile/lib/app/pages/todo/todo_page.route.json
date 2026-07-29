@@ -1,0 +1,1 @@
+{"routes":[{"name":null,"pathParams":[],"pageType":{"import":"package:taskflow_mobile/app/pages/todo/todo_page.dart","name":"TodoPage","isNullable":false,"isRecordType":false},"className":"TodoPage","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/app/pages/todo/todo_page.dart","inputHash":0}

@@ -1,0 +1,1 @@
+{"routes":[{"name":null,"pathParams":[],"pageType":{"import":"package:taskflow_mobile/app/pages/auth/register_page.dart","name":"RegisterPage","isNullable":false,"isRecordType":false},"className":"RegisterPage","parameters":[],"hasWrappedRoute":false,"hasConstConstructor":true,"deferredLoading":null}],"inputPath":"lib/app/pages/auth/register_page.dart","inputHash":0}
